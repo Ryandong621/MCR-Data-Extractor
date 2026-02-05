@@ -45,5 +45,5 @@ Processing a large number of PDF files may take a considerable amount of time.
 # Contribution
 Contributions to this project are welcome! If you have any suggestions for improvement or find bugs, please submit an Issue or Pull Request.
 
-Author: RyanDong621
+Author: Ryandong621
 Date: February 5, 2026
